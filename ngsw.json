@@ -9,12 +9,14 @@
       "urls": [
         "https://talorlik.github.io/PWCat/favicon.ico",
         "https://talorlik.github.io/PWCat/index.html",
-        "https://talorlik.github.io/PWCat/inline.6b16fc76d8a04d15daff.bundle.js",
-        "https://talorlik.github.io/PWCat/main.15c1fe42a7147ef0e15b.bundle.js",
+        "https://talorlik.github.io/PWCat/inline.feb928e5cb69d2d77f31.bundle.js",
+        "https://talorlik.github.io/PWCat/main.1514d7f41f3092d5fa68.bundle.js",
         "https://talorlik.github.io/PWCat/polyfills.f20484b2fa4642e0dca8.bundle.js",
         "https://talorlik.github.io/PWCat/styles.d41d8cd98f00b204e980.bundle.css"
       ],
-      "patterns": []
+      "patterns": [
+        "https:\\/\\/cataas\\.com\\/.*"
+      ]
     },
     {
       "name": "assets",
@@ -31,15 +33,15 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://talorlik.github.io/PWCat/inline.6b16fc76d8a04d15daff.bundle.js": "7217197be9f65034c43c4cba714c6a4c09bec132",
+    "https://talorlik.github.io/PWCat/inline.feb928e5cb69d2d77f31.bundle.js": "cf4d87061d81dbcd2d7435182a37926f4b8c7541",
     "https://talorlik.github.io/PWCat/assets/icon-128x128.png": "f5ff273978e09b123b806e9c6c03eea4870e2f85",
-    "https://talorlik.github.io/PWCat/main.15c1fe42a7147ef0e15b.bundle.js": "fd48366a7010aff8f10d436cdc463e46fefd9e44",
+    "https://talorlik.github.io/PWCat/main.1514d7f41f3092d5fa68.bundle.js": "3b8274da954028db83299ccfca6b535f420b6321",
     "https://talorlik.github.io/PWCat/assets/icon-152x152.png": "e2975aa59f2bf703b7b1d9b86d82712ce45c7702",
     "https://talorlik.github.io/PWCat/polyfills.f20484b2fa4642e0dca8.bundle.js": "0b0af365e031b7cbba789493d311e94192720c68",
     "https://talorlik.github.io/PWCat/assets/icon-256x256.png": "16fac7e14d02e082865bceaace0aac2d544a601f",
     "https://talorlik.github.io/PWCat/styles.d41d8cd98f00b204e980.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
     "https://talorlik.github.io/PWCat/assets/icon-512x512.png": "c31e6c56e1a8bb47ef5380e119b68a6d7f1a8806",
     "https://talorlik.github.io/PWCat/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://talorlik.github.io/PWCat/index.html": "18b2571ed4d72265250cd6fb7b31a384965619d5"
+    "https://talorlik.github.io/PWCat/index.html": "f75f185b0f6d95bd44ff5b1ff798158b39339ee9"
   }
 }
