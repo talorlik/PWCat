@@ -1,3 +1,12 @@
+# Site URL
+
+https://talorlik.github.io/PWCat
+
+# Deployment to GitHub
+
+1. ng build --prod --env=prod --base-href https://talorlik.github.io/PWCat/
+2. ngh
+
 # PWcat
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.

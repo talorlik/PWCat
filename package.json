@@ -5,7 +5,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve --port 4700 --open",
-    "build": "ng build --prod --env=prod",
+    "build": "ng build --prod --env=prod --base-href https://talorlik.github.io/PWCat/",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
